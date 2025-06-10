@@ -1,28 +1,27 @@
-# React TODO App ✅
+Project Title: React TODO Application
 
-A simple and clean TODO list application built with React.
+Overview:
+A simple React TODO app where users can add, delete, and manage their tasks efficiently.
 
-## 🚀 Live Demo
+Features:
+Add new tasks
+Mark tasks as complete/incomplete
+Delete tasks
 
-Check out the live version:  
-👉 [https://your-username.github.io/react-todo-app](https://your-username.github.io/react-todo-app)
+Tech Stack:
+React
+CSS
 
-## 📦 Features
 
-- Add TODO items
-- Mark items as complete/incomplete
-- Delete TODOs
-- Simple and responsive design
+How to Run:
 
-## 🛠️ Technologies
+npm install
 
-- React
-- HTML/CSS (inline styling)
-- GitHub Pages (for deployment)
+Run using npm start
 
-## 📦 Installation & Run Locally
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/react-todo-app.git
-   cd react-todo-app
+GitHub:
+🔗 https://github.com/yourusername/project13-react-todo
+
+
+
